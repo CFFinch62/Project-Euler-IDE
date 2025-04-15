@@ -2,6 +2,8 @@
 
 A modern, user-friendly, cross-platform (Linux, Mac, Windows) editor/code runner for solving Project Euler problems. This application provides a comprehensive environment for working on Project Euler problems, with features for code editing, testing, and progress tracking.
 
+![Screenshot 2025-04-14 at 9 33 16 PM](https://github.com/user-attachments/assets/d7ee20e7-224d-4fe6-8aee-69eec7ccb1d5)
+
 ## Features
 
 ### Problem Management
