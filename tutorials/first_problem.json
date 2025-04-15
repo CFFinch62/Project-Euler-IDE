@@ -1,0 +1,23 @@
+{
+    "title": "Your First Problem",
+    "steps": [
+        {
+            "title": "Selecting a Problem",
+            "content": "Click on any problem number in the grid to load it. For beginners, we recommend starting with Problem 1.",
+            "action": "select_problem",
+            "params": {
+                "problem_number": 1
+            }
+        },
+        {
+            "title": "Understanding the Problem",
+            "content": "Read the problem description carefully. Make sure you understand what is being asked before writing code.",
+            "action": "none"
+        },
+        {
+            "title": "Writing Your Solution",
+            "content": "Use the code editor to write your solution. The editor provides syntax highlighting and auto-completion.",
+            "action": "none"
+        }
+    ]
+}

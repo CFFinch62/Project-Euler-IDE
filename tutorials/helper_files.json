@@ -1,0 +1,18 @@
+{
+    "title": "Using Helper Files",
+    "steps": [
+        {
+            "title": "What are Helper Files?",
+            "content": "Helper files let you organize your code into reusable components. They're great for common functions you use across problems.",
+            "action": "none"
+        },
+        {
+            "title": "Creating a Helper File",
+            "content": "Click 'Add Helper File' to create a new helper file. Give it a descriptive name and write your reusable functions.",
+            "action": "highlight_button",
+            "params": {
+                "button": "add_helper"
+            }
+        }
+    ]
+}

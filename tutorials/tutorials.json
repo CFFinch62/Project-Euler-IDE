@@ -1,0 +1,76 @@
+{
+    "welcome": {
+        "title": "Welcome to Project Euler Editor",
+        "steps": [
+            {
+                "title": "Welcome",
+                "content": "Welcome to the Project Euler Editor! This tutorial will help you get started with solving Project Euler problems.",
+                "action": "none"
+            },
+            {
+                "title": "Interface Overview",
+                "content": "The interface is divided into three main areas:\n1. Problem Description (left)\n2. Code Editor (right top)\n3. Helper Files (right bottom)",
+                "action": "highlight_areas"
+            }
+        ]
+    },
+    "first_problem": {
+        "title": "Your First Problem",
+        "steps": [
+            {
+                "title": "Selecting a Problem",
+                "content": "Click on any problem number in the grid to load it. For beginners, we recommend starting with Problem 1.",
+                "action": "select_problem",
+                "params": {
+                    "problem_number": 1
+                }
+            },
+            {
+                "title": "Understanding the Problem",
+                "content": "Read the problem description carefully. Make sure you understand what is being asked before writing code.",
+                "action": "none"
+            },
+            {
+                "title": "Writing Your Solution",
+                "content": "Use the code editor to write your solution. The editor provides syntax highlighting and auto-completion.",
+                "action": "none"
+            }
+        ]
+    },
+    "running_code": {
+        "title": "Running Your Code",
+        "steps": [
+            {
+                "title": "The Run Button",
+                "content": "Click the 'Run Code' button to test your solution. The editor will execute your code and show the result.",
+                "action": "highlight_button",
+                "params": {
+                    "button": "run"
+                }
+            },
+            {
+                "title": "Understanding Results",
+                "content": "If your solution is correct, you'll see a success message. If not, you'll get an error message to help you debug.",
+                "action": "none"
+            }
+        ]
+    },
+    "helper_files": {
+        "title": "Using Helper Files",
+        "steps": [
+            {
+                "title": "What are Helper Files?",
+                "content": "Helper files let you organize your code into reusable components. They're great for common functions you use across problems.",
+                "action": "none"
+            },
+            {
+                "title": "Creating a Helper File",
+                "content": "Click 'Add Helper File' to create a new helper file. Give it a descriptive name and write your reusable functions.",
+                "action": "highlight_button",
+                "params": {
+                    "button": "add_helper"
+                }
+            }
+        ]
+    }
+}

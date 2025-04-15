@@ -1,0 +1,18 @@
+{
+    "title": "Running Your Code",
+    "steps": [
+        {
+            "title": "The Run Button",
+            "content": "Click the 'Run Code' button to test your solution. The editor will execute your code and show the result.",
+            "action": "highlight_button",
+            "params": {
+                "button": "run"
+            }
+        },
+        {
+            "title": "Understanding Results",
+            "content": "If your solution is correct, you'll see a success message. If not, you'll get an error message to help you debug.",
+            "action": "none"
+        }
+    ]
+}

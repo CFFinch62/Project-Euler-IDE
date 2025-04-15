@@ -1,0 +1,15 @@
+{
+    "title": "Welcome to Project Euler Editor",
+    "steps": [
+        {
+            "title": "Welcome",
+            "content": "Welcome to the Project Euler Editor! This tutorial will help you get started with solving Project Euler problems.",
+            "action": "none"
+        },
+        {
+            "title": "Interface Overview",
+            "content": "The interface is divided into three main areas:\n1. Problem Description (left)\n2. Code Editor (right top)\n3. Helper Files (right bottom)",
+            "action": "highlight_areas"
+        }
+    ]
+}
