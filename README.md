@@ -63,6 +63,7 @@ A modern, user-friendly, cross-platform (Linux, Mac, Windows) editor/code runner
 - Tutorial management through settings
 
 ### Helper Files
+- Some helper files already available to try or edit
 - Create and manage helper files for each problem
 - Test helper functions independently
 - Organize code into multiple files
@@ -73,6 +74,7 @@ A modern, user-friendly, cross-platform (Linux, Mac, Windows) editor/code runner
 - Automatic loading of required data files
 - Support for multiple problems using the same data file
 - Helper methods for loading and processing data
+- All support files below are already available, no dwonloading needed
 
 Supported data files:
 - `triangle.txt` (Problem 67)
@@ -193,9 +195,8 @@ python pe_editor.py
    - Track your progress
 
 4. **Manage Data Files**
-   - Place required data files in the `data` directory
+   - All necessary data files for problems 1-100 included, no downlaoding required
    - Use helper methods to load data
-   - Access data files through the ProblemManager
 
 5. **Use Tutorials**
    - Access tutorials through the Help menu
@@ -204,7 +205,8 @@ python pe_editor.py
 
 ## Data Files
 
-Data files required for certain problems can be downloaded from the Project Euler website. Place them in the `data` directory with the exact names specified in the problem descriptions.
+If any data files for certain problems are missing or get deleted they can be downloaded from the Project Euler website. 
+Place them in the `data` directory with the exact names specified in the problem descriptions.
 
 See `data/README.md` for detailed information about required data files and how to obtain them.
 
