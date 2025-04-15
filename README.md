@@ -2,7 +2,7 @@
 
 A modern, user-friendly, cross-platform (Linux, Mac, Windows) editor/code runner for solving Project Euler problems. This application provides a comprehensive environment for working on Project Euler problems, with features for code editing, testing, and progress tracking.
 
-![Screenshot 2025-04-14 at 9 33 16 PM](https://github.com/user-attachments/assets/d7ee20e7-224d-4fe6-8aee-69eec7ccb1d5)
+![Screenshot 2025-04-14 at 9 32 31 PM](https://github.com/user-attachments/assets/60af99c9-73f2-4781-a8d8-d4d58e938ddb)
 
 ## Features
 
@@ -167,7 +167,7 @@ pip install -r requirements.txt
 
 3. Run the application:
 ```bash
-python main.py
+python pe_editor.py
 ```
 
 ## Usage
@@ -207,6 +207,20 @@ python main.py
 Data files required for certain problems can be downloaded from the Project Euler website. Place them in the `data` directory with the exact names specified in the problem descriptions.
 
 See `data/README.md` for detailed information about required data files and how to obtain them.
+
+
+## Screenshots
+
+![Screenshot 2025-04-14 at 9 32 52 PM](https://github.com/user-attachments/assets/0eb7d98d-eabe-442c-9cba-245f839452a3)
+![Screenshot 2025-04-14 at 9 33 07 PM](https://github.com/user-attachments/assets/51e092b2-3878-4edd-8676-88012126640a)
+![Screenshot 2025-04-14 at 9 33 16 PM](https://github.com/user-attachments/assets/3ab7b6e7-d61e-483e-ba0a-1c4b89474ca4)
+![Screenshot 2025-04-14 at 9 33 25 PM](https://github.com/user-attachments/assets/88730167-0694-445b-8ae2-0e3d99bb670e)
+![Screenshot 2025-04-14 at 9 33 36 PM](https://github.com/user-attachments/assets/083135f0-0616-470c-a55c-d607d94ee761)
+![Screenshot 2025-04-14 at 9 33 52 PM](https://github.com/user-attachments/assets/fbeda655-2cd5-42ea-83f5-45a674e054a5)
+![Screenshot 2025-04-14 at 9 34 01 PM](https://github.com/user-attachments/assets/8e35e067-4849-4d06-b8b8-21b4ae75e4db)
+![Screenshot 2025-04-14 at 9 34 09 PM](https://github.com/user-attachments/assets/e0066afe-d45b-48a6-8e0e-d23dc947e762)
+![Screenshot 2025-04-14 at 9 34 19 PM](https://github.com/user-attachments/assets/8b547f1e-fb6d-42d0-891e-b209614c735f)
+
 
 ## License
 
