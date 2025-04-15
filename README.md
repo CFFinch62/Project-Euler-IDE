@@ -1,6 +1,6 @@
 # Project Euler Editor
 
-A modern, user-friendly editor for solving Project Euler problems. This application provides a comprehensive environment for working on Project Euler problems, with features for code editing, testing, and progress tracking.
+A modern, user-friendly, cross-platform (Linux, Mac, Windows) editor/code runner for solving Project Euler problems. This application provides a comprehensive environment for working on Project Euler problems, with features for code editing, testing, and progress tracking.
 
 ## Features
 
