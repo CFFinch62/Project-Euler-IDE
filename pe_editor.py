@@ -1198,8 +1198,8 @@ def example_function(arg1, arg2=None):
         if not find_cursor.isNull():
             # Move cursor to the start of the solve function
             cursor.setPosition(find_cursor.position())
-            cursor.movePosition(cursor.Down)
-            cursor.movePosition(cursor.EndOfLine)
+            cursor.movePosition(cursor.MoveOperation.Down)
+            cursor.movePosition(cursor.MoveOperation.EndOfLine)
             cursor.insertText("\n" + loading_code)
         else:
             # If solve function not found, insert at cursor position
